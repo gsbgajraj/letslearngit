@@ -8,4 +8,4 @@ car["carname"]="thar1888";
 car["price"]=12;
 car["23"]=128;
 car["pan card no"]=128;
-console.log(car);
+console.log(car); "" 
